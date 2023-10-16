@@ -1,2 +1,2 @@
 console.log("Hello world!");
-console.log("does it worked");
+console.log("how does it work");
